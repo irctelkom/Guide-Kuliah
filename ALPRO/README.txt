@@ -1,3 +1,4 @@
-Rekomendasi Belajar Alpro
+Rekomendasi Belajar Alpro (2 Minggu)
 
-https://training.ia-toki.org/training/curriculums/1/courses/1/chapters
+Instal Aplikasi CodeBlock <- http://www.codeblocks.org/
+Penjelasan materi dan latihan onlen <-https://training.ia-toki.org/training/curriculums/1/courses/1/chapters
