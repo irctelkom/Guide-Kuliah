@@ -1,6 +1,6 @@
 Rekomendasi Belajar WEB
 Instal Aplikasi SUBLIME <- https://www.sublimetext.com/
-Instal Aplikasi SUBLIME <- https://www.apachefriends.org/index.html
+Instal Aplikasi XAMPP <- https://www.apachefriends.org/index.html
 
 Urutan Belajar :
 
