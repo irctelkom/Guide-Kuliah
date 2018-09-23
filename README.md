@@ -8,3 +8,6 @@ urutannya sesuai nomor liatnya :
 
 Guide ini dibuat agar member mempunyai basic/fundamental dibidang Informatika.
 Untuk mengikuti event bisa memilih salah satu bidang web atau mobile.
+
+Siapin Teamviewer untuk mempermudah diskusi secara private :
+https://www.teamviewer.com/id/?pid=google.tv.id_en_sn_desk_brand_teamviewermisspeling_ex.s.id&gclid=CjwKCAjw0JfdBRACEiwAiDTALgckRG9WrHlBVsK1LWX7IMWC_HRPe2URuP805v3So_rCyrJmFa7skhoCHT8QAvD_BwE
