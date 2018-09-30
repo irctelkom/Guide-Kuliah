@@ -11,6 +11,6 @@ Note: Workshops in the BASIC series follow a structured course, and re-use many 
 
 ## Course Material
 
-* [Modul](Modul)
+* [Material](Material)
 * [Example Program](Program)
 
