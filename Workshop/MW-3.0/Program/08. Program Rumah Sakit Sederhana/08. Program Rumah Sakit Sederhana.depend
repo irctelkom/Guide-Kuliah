@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538309895 source:e:\workshop\08. program rumah sakit sederhana\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
