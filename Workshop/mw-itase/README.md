@@ -1,10 +1,13 @@
-# Sign-Language-Recognition-
-American Sign Language Recognition using Python ( With multiple outputs) , OpenCV
+# Workshop ITASE (Web Desain)
 
-Just run the python script with an input argumen of either "1" or "0" depending on the number of your webcam. So it will be like this -----> python final.py 1 or python final.py 0 
+## Overview
+Uncover simple recipes to start learning design web using boostrap in this interactive, beginner-friendly session. Our speaker will share their experience in learning boostrap and will guide you step-by-step to acquire the skills you need
 
-Then run the bash scipt in the backround in another terminal .
+## Basic Series
+Workshops in our BASIC series are tailored to casual programmers and non-programmers that are taking their first steps to learn programming. It assumes no prior knowledge or academic background, and attendees will be introduced to the beautiful art of writing code to create programs. Students are encouraged to bring along their laptop and download the course materials beforehand if they wish to follow along the Code Along exercises. The workshop has a gentle learning slope that is designed with non-technical professionals and academics in mind. Note: Workshops in the BASIC series follow a structured course, and re-use many of previous materials from earlier BASIC workshops. If you have attended a Basic Design Web in the past and would like to be exposed to more intermediate-level education materials.
 
-Video Of the project can be found at the link : https://www.youtube.com/watch?v=1BD5C_B2o5Y&t=51s
+## Course Material
 
-Please feel free to ask any questions @ anupamy@gmail.com.
+* [Material](Comming Soon)
+* [Example Program](Comming Soon)
+
