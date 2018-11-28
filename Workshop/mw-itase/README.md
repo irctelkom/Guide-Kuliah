@@ -8,6 +8,6 @@ Workshops in our BASIC series are tailored to casual programmers and non-program
 
 ## Course Material
 
-* [Material](Comming Soon)
-* [Example Program](Comming Soon)
+* Material
+* Aplikasi
 
