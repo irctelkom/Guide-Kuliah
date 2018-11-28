@@ -1,8 +1,0 @@
-1. Silahkan Install Sublime Text 3 sesuai dengan platform windows (untuk linux menyesuaikan)
-2. Buat folder dengan nama workshop
-3. Extract file jamu.rar
-4. pindahkan semua file ke folder workshop (susunan file bisa lihat digambar)
-
-#REFERENSI BELAJAR SEBELUM WORKSHOP
-https://www.w3schools.com/bootstrap/default.asp
-https://getbootstrap.com/docs/3.3/components/
