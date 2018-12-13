@@ -1,4 +1,4 @@
-# Mini Workshop 3.0 (Basic Syntax C ++ Programming)
+# Mini Workshop (Basic Syntax Python Programming)
 
 ## Material
 
